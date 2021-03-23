@@ -82,6 +82,9 @@ img{
     padding-bottom: 5px;
     margin: 15px;
 }
+#form-search:focus{
+    outline:none;
+}
 
 #sign_in{
 
@@ -102,6 +105,7 @@ img{
 ::placeholder{
     padding-left: 8px ;
 }
+
 
 
 
