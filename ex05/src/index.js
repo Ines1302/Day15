@@ -1,7 +1,7 @@
 function myObject() {
   "use strict";
   const MATH_CONSTANTS = {
-    E: 2.71828,
+    E: 2.71828
   };
 
   Object.freeze(MATH_CONSTANTS);
